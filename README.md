@@ -153,7 +153,7 @@ Here are some projects and websites that creatively integrate [no-as-a-service](
 
 ## 👤 Author
 
-Created with creative stubbornness by [hotheadhacker](https://github.com/hotheadhacker)
+Created with creative stubbornness by [hotheadhacker](https://github.com/hotheadhacker) and made into a huno project by [iamthebestcodeer](https://github.com/iamthebestcodeer)
 
 ---
 
