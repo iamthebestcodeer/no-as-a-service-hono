@@ -1,5 +1,5 @@
 {
-  "name": "no-as-service",
+  "name": "no-as-service-with-huno",
   "version": "1.0.0",
   "description": "A lightweight API that returns random rejection or no reasons.",
   "main": "hono-app.js",
